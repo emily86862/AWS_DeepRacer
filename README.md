@@ -11,3 +11,9 @@ The model stopped training after 1 hour.
 ![Action-space](https://github.com/emily86862/AWS_DeepRacer/blob/master/action_space.png)
 
 ![Evaluaion Results](https://github.com/emily86862/AWS_DeepRacer/blob/master/evaluation-results.png)
+
+![Track](https://github.com/emily86862/AWS_DeepRacer/blob/master/track.png) 
+
+For more information on AWS DeepRacer, please go to https://aws.amazon.com/deepracer/
+
+Happy Learning :)
